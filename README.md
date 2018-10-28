@@ -1,2 +1,2 @@
 # Solve-Algorithms-Java-
-solve some problem in java 
+solve some problems in java 
